@@ -1,6 +1,6 @@
 
 # OpenSource-Code
-the opensource code of BJMJS-STUDIO
+the opensource code of evanstudio
 
 # Poster
 AI Change the World,God Change everything.
